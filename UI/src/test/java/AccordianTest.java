@@ -9,6 +9,6 @@ public class AccordianTest extends BaseTest{
         accordianPage
                 .section1HeadingClick()
                 .section2HeadingClick()
-                .  section3HeadingClick();
+                .section3HeadingClick();
     }
 }

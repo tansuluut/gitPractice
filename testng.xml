@@ -1,9 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="All Test Suite">
-    <test verbose="2" preserve-order="true" name="C:/Users/Honor/Desktop/projectHtml/SummerSDET2023">
-        <classes>
-
-        </classes>
-    </test>
-</suite>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/Honor/Desktop/projectHtml/SummerSDET2023/UI"><classes><class name="org.example.Main"><methods><include name="test2"/><include name="loginRegistration"/><include name="test1"/><include name="alertTeat"/><include name="testFrame"/><include name="test12"/><include name="test10"/><include name="test123"/></methods></class><class name="com.digital.AccordianTest"><methods><include name="test"/></methods></class><class name="com.digital.AlertTest"><methods><include name="test"/></methods></class><class name="com.digital.BrowserWindowTest"><methods><include name="test1"/></methods></class><class name="com.digital.ButtonsTest"><methods><include name="fillUpClick"/></methods></class><class name="com.digital.CheckBoxTest"><methods><include name="fillUpTheCheckBox"/></methods></class><class name="com.digital.DynamicPropertiesTest"><methods><include name="test"/></methods></class><class name="com.digital.FrameTest"><methods><include name="testBrowser"/></methods></class><class name="com.digital.LinksTest"><methods><include name="linksClick"/></methods></class><class name="com.digital.PracticeFormTest"><methods><include name="fillUpTheFormTest"/></methods></class><class name="com.digital.RadioButtonTest"><methods><include name="fillUpTheCheckBox"/></methods></class><class name="com.digital.TexBoxTest"><methods><include name="fillUpTheFormTest"/></methods></class><class name="com.digital.ToolTipsTest"><methods><include name="Test"/></methods></class><class name="com.digital.WebTablesTest"><methods><include name="fillUpTheFormTest"/></methods></class></classes></test></suite>
