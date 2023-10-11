@@ -1,7 +1,7 @@
 package payment;
 
-public class Visa {
+public class VisaGold {
     public static void main(String[] args) {
-        System.out.println(" visa");
+        System.out.println("gold visa");
     }
 }
