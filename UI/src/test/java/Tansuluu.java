@@ -1,2 +1,2 @@
-public class Nuta {
+public class Tansuluu {
 }
